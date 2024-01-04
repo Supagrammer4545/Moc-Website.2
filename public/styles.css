@@ -1,0 +1,20 @@
+body {
+    background-color: lightgreen;
+  }
+  hr {
+    height: 4px;
+    background-color: blueviolet;
+    border: none;
+  }
+  h1 {
+   color: slateblue;
+  }
+  h2 {color: slateblue;
+  }
+  h3 {color: slateblue;}
+  p {
+   color: black;
+  }
+  a {
+   color: blueviolet;
+  }
